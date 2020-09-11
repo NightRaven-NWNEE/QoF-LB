@@ -1,11 +1,11 @@
-# >> Harkdune, A NWN:EE Action Adventure PW <<
+## >> Harkdune, A NWN:EE Action Adventure PW <<
     Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action. We're currently still in alpha. 
 	This github, the website and the module itself are still a work in progress (WIP).
 
 - Harkdune - Beta Soon! - https://harkdune-nwnee.ahhtsv.com
 
-	- # NWSync Enabled 
-	- ** NOTE: A large first time download is required to play here due to the 
+	- ### NWSync Enabled 
+	- ** NOTE: ** A large first time download is required to play here due to the 
 	custom content \ resources we are using.
 	- Its half as large if you use the NWSYNC CEP D/L Server or already have the CEP nwsynced.
 
