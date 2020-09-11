@@ -9,7 +9,7 @@
 	custom content \ resources we are using.
 	- Its half as large if you use the NWSYNC CEP D/L Server or already have the CEP nwsynced.
 
-# * Features: * [& TO-DO List]
+### * Features: * [& TO-DO List]
 - [x] NWSync
 - [x] CEP \ ACP \ CCOH \ CTP \ CMP Integrated
 - [x] High Magic
@@ -27,7 +27,7 @@
 - [x] Persistent Item, Gold, & Experience Banking 
 - [x] Crafting
 
-# * Custom Content: * [& TO-DO List]
+### * Custom Content: * [& TO-DO List]
 	(Heavily modded in some cases to work here)
 - [x] PRC Inspired & Custom Addtions to Classes & Races
 - [x] Community Expansion Pack (CEP)
@@ -40,19 +40,19 @@
 - [x] Scarfaces Sockets
 - [x] Neshkes Extendable Spawn System (NESS)
 
-# * Tilesets: *
+### * Tilesets: *
 - Community Tileset Project (CTP)
 - Infernal Caverns: A Mines and Caverns Reskin
 - PHoD - PURGATORY
 
-# * Skyboxes: *
+### * Skyboxes: *
 - Community Skybox Pack (CSP)
 
-# * Music *
+### * Music *
 - Community Music Pack (CMP)
 - Custom Music
 
-# * Special Thanks: *
+### * Special Thanks: *
 - Bioware
 - Beamdog
 - Weathersong
@@ -80,12 +80,12 @@
 - ChaosQueen_Kara_8
 - And many, many more. List is incomplete for now.
 
-# * Spell Changes: (WIP) *
+### * Spell Changes: (WIP) *
 - Spells with simple artificial caps had the caps removed.
 - Invisibility Sphere (Level 21+) = Improved Invis Sphere
 - Mass Haste (Level 21+) = An additional 20% Speed and +1 Attack\Round
 - Black Blade of Disaster had its creature template improved. Visual and AB\Damage.
 
-# * Feat Changes: (WIP) *
+### * Feat Changes: (WIP) *
 - Blinding Speed = +1 Attack\Round
 - 
