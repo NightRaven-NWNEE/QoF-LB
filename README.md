@@ -1,5 +1,6 @@
 ## >> Harkdune, A NWN:EE Action Adventure PW <<
-    Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action. We're currently still in alpha. 
+    Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action. 
+	We're currently still in alpha and not open to the public, yet... 
 	This github, the website and the module itself are still a work in progress (WIP).
 
 - Harkdune - Beta Soon! - https://harkdune-nwnee.ahhtsv.com
