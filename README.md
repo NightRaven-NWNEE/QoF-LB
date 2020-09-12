@@ -5,7 +5,7 @@
 
 - Harkdune - Beta Soon! - https://harkdune-nwnee.ahhtsv.com
 
-	- ### NWSync Enabled 
+	### NWSync Enabled 
 	- ** NOTE: ** A large first time download is required to play here due to the 
 	custom content \ resources we are using.
 	- Its half as large if you use the NWSYNC CEP D/L Server or already have the CEP nwsynced.
