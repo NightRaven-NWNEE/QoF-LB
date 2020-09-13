@@ -11,17 +11,20 @@
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
 ### * Features: * [& TO-DO List]
-- [x] CEP \ ACP \ CCOH \ CTP \ CMP Integrated
+- [x] CEP \ ACP \ CCOH \ CTP \ CSP \ CMP Integrated
 - [x] 36pt Point Buy & High Magic
 - [x] Levels 1-40 
 - [ ] Levels 41-60 (Future Plans)
 - [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
-- [x] High Level Only, Area Restricted Full/Party PvP - Most Cities & Leveling/Quest areas are generally No PvP.
-- [ ] Custom DnD Races & Classes System - Custom, NWN2, & PRC Inspired (WIP)
+- [x] High Level Only, Area Restricted Full \ Party PvP 
+	- Most Cities & Leveling \ Quest areas are generally No PvP.
+- [ ] Custom DnD Races & Classes System 
+	- Custom, NWN2, & PRC Inspired (WIP)
 - [ ] Custom DnD Spells & Feats (WIP)
 - [ ] Custom Henchman & Mount System (WIP)
 - [x] Custom Portal/Teleportation System
-- [ ] Earn Custom Powers & Abilities - Independant of Race\Class Abilities (WIP)
+- [ ] Earn Custom Powers & Abilities 
+	- Independant of Race \ Class Abilities (WIP)
 - [x] Guild System
 - [x] Player & Guild Housing
 - [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System (Future Plans)
