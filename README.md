@@ -18,17 +18,17 @@
 - [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
 - [x] High Level Only, Area Restricted Full \ Party PvP 
 	- Most Cities & Leveling \ Quest areas are generally No PvP.
-- [ ] Custom DnD Races & Classes System 
-	- Custom, NWN2, & PRC Inspired (WIP)
+- [ ] Custom DnD Races & Classes System (WIP)
+	- Custom, NWN2, & PRC Inspired
 - [ ] Custom DnD Spells & Feats (WIP)
 - [ ] Custom Henchman & Mount System (WIP)
 - [x] Custom Portal/Teleportation System
-- [ ] Earn Custom Powers & Abilities 
-	- Independant of Race \ Class Abilities (WIP)
+- [ ] Earn Custom Powers & Abilities (WIP)
+	- Independant of Race \ Class Abilities
 - [x] Guild System
 - [x] Player & Guild Housing
 - [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System (Future Plans)
-- [x] Persistent Item, Gold & Experience Banking 
+- [x] Persistent Item & Gold Banking 
 - [x] Crafting
 
 ### * Custom Content: *
