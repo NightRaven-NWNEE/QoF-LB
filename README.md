@@ -1,40 +1,38 @@
 ## >> Harkdune, A NWN:EE Action Adventure PW <<
     Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action. 
 	We're currently still in alpha and not open to the public, yet... 
-	This github, the website and the module itself are still a work in progress (WIP).
+	This github, the website below, and the module itself are all still a work in progress (WIP).
 
-- Beta Soon! - https://harkdune-nwnee.ahhtsv.com
+- Beta Soon! - https://harkdune-nwnee.ahhtsv.com  - (Not really in any kind of usable state at the moment sorry! - More will be done with it after Release.)
 
 	### NWSync Enabled 
 	- ** NOTE: ** A large first time download is required to play here due to the 
 	custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
-### * Features: * [& TO-DO List]
-- [x] CEP \ ACP \ CCOH \ CTP \ CSP \ CMP Integrated
-- [x] 36pt Point Buy & High Magic
-- [x] Levels 1-40 
-- [ ] Levels 41-60 (Future Plans)
-- [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
-- [x] High Level Only, Area Restricted Full \ Party PvP 
-	- Most Cities & Leveling \ Quest areas are generally No PvP.
-- [ ] Custom DnD Races & Classes System (WIP)
-	- Custom, NWN2, & PRC Inspired
-- [ ] Custom DnD Spells & Feats (WIP)
-- [ ] Custom Henchman & Mount System (WIP)
-- [x] Custom Portal/Teleportation System
-- [ ] Earn Custom Powers & Abilities (WIP)
-	- Independant of Race \ Class Abilities
-- [x] Guild System
-- [x] Player & Guild Housing
-- [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System (Future Plans)
-- [x] Persistent Item & Gold Banking 
-- [x] Crafting
 
-### * Custom Content: *
-	(Heavily modded in some cases to work here)
-- [x] Some PRC & NWN2 Inspired Races & Classes 
-	- Some description text was reused but implementation is different.
+### * TO-DO List: * 
+- [-] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes (WIP)
+- [-] (WIP) Custom DnD Spells & Feats (WIP)
+- [-] (WIP) Custom Henchman & Mount System (WIP)
+- [-] (WIP) Custom Powers & Abilities (Not Race or Class dependant)
+
+
+### * Features & Custom Content: * [Planned for Release]
+- [x] 36pt Point Buy & High Magic
+- [x] Levels 1-40
+- [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
+- [x] Level 35+ Area Restricted Full \ Party PvP that is balanced around Party PvP.
+	- Most Cities & Leveling \ Quest areas are generally No PvP.
+- [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes
+- [ ] (WIP) Custom DnD Spells & Feats (WIP)
+- [ ] (WIP) Custom Henchman & Mount System (WIP)
+- [X] Custom Portal/Teleportation System
+- [ ] (WIP) Earn Custom Powers & Abilities (Independant of Race \ Class Abilities)
+- [X] Guild System
+- [X] Player & Guild Housing
+- [X] Persistent Item & Gold Banking 
+- [X] Base HotU Crafting
 - [x] Tony K's Henchman & Battle AI
 - [x] Community Expansion Pack (CEP)
 - [x] Customize Character Override Hak (CCOH)
@@ -44,24 +42,54 @@
 - [x] Hunters Housing
 - [x] Neshkes Extendable Spawn System (NESS)
 
+
+### * After Release / Future Plans: *
+- [ ] Levels 41-60
+- [ ] Epic Class, Prestige, & Race Quests
+- [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System 
+- [ ] Custom Crafting System
+- [ ] Project Q Assets (Needs Investigation)
+
+
 ### * Tilesets: *
 - Community Tileset Project (CTP)
 - Infernal Caverns: A Mines and Caverns Reskin
 - PHoD - PURGATORY
 
+
 ### * Skyboxes: *
 - Community Skybox Pack (CSP)
 
+
 ### * Music *
 - Community Music Pack (CMP)
-- Custom Music
+- Various Game Soundtracks (To be credited before Release)
 
-### * Special Thanks: *
+
+### * Spell Changes: (WIP) *
+- General Changes
+	- Spells with simple artificial caps had the caps removed.
+
+- Specific Spell Changes
+	- Invisibility Sphere (21+ Caster Levels) - Improved Invisibility Sphere
+	- Mass Haste (21+ Caster Levels) - An additional 20% Speed and +1 Attack\Round.
+	- Black Blade of Disaster - Creature Template improved. Visual and AB\Damage.
+
+
+### * Feat Changes: (WIP) *
+- Blinding Speed = +1 Attack\Round
+- 
+
+
+### * Special Thanks: * (More to add before Release)
 - Bioware
 - Beamdog
 - Weathersong
 - Dragonsong
 - Ben Harrison
+- Symphony
+- Virusman
+- Fester Pot
 - Tarot Redhand
 - Mistress
 - PLUSH HYENA of DOOM
@@ -82,14 +110,15 @@
 - Liliac Soul
 - Genisys
 - ChaosQueen_Kara_8
-- And many, many more. List is incomplete for now.
+- And many, many more to add. List is incomplete for now.
 
-### * Spell Changes: (WIP) *
-- Spells with simple artificial caps had the caps removed.
-- Invisibility Sphere (Level 21+) = Improved Invis Sphere
-- Mass Haste (Level 21+) = An additional 20% Speed and +1 Attack\Round
-- Black Blade of Disaster had its creature template improved. Visual and AB\Damage.
 
-### * Feat Changes: (WIP) *
-- Blinding Speed = +1 Attack\Round
-- 
+### * FAQ - Frequently Asked Questions: * (More to add before Release)
+
+- Who are the Developers, Dungeon Masters, and Testers? 
+	
+	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server, Module Admin / Dev
+	- Outlawz - Co-Lead Module Admin / Dev 
+	- Kit Royal - Senior DM / Tester
+	- Punishments Wrath - Senior DM / Tester
+
