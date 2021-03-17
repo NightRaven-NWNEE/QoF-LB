@@ -117,7 +117,7 @@
 
 - Who are the Developers, Dungeon Masters, and Testers? 
 	
-	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server, Module Admin / Dev
+	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
 	- Outlawz - Co-Lead Module Admin / Dev 
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
