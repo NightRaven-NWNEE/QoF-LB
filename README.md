@@ -3,7 +3,7 @@
 	We're currently still in alpha and not open to the public, yet... 
 	This github, the website below, and the module itself are all still a work in progress (WIP).
 
-- Beta Soon! - https://harkdune-nwnee.ahhtsv.com  - (Not really in any kind of usable state at the moment sorry! - More will be done with it after Release.)
+- Beta Soon! - https://harkdune-nwnee.ahhtsv.com 
 
 	### NWSync Enabled 
 	- ** NOTE: ** A large first time download is required to play here due to the 
@@ -12,10 +12,10 @@
 
 
 ### * TO-DO List: * 
-- [-] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes (WIP)
-- [-] (WIP) Custom DnD Spells & Feats (WIP)
-- [-] (WIP) Custom Henchman & Mount System (WIP)
-- [-] (WIP) Custom Powers & Abilities (Not Race or Class dependant)
+- [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes (WIP)
+- [ ] (WIP) Custom DnD Spells & Feats (WIP)
+- [ ] (WIP) Custom Henchman & Mount System (WIP)
+- [ ] (WIP) Custom Powers & Abilities (Not Race or Class dependant)
 
 
 ### * Features & Custom Content: * [Planned for Release]
@@ -27,12 +27,12 @@
 - [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes
 - [ ] (WIP) Custom DnD Spells & Feats (WIP)
 - [ ] (WIP) Custom Henchman & Mount System (WIP)
-- [X] Custom Portal/Teleportation System
+- [x] Custom Portal/Teleportation System
 - [ ] (WIP) Earn Custom Powers & Abilities (Independant of Race \ Class Abilities)
-- [X] Guild System
-- [X] Player & Guild Housing
-- [X] Persistent Item & Gold Banking 
-- [X] Base HotU Crafting
+- [x] Guild System
+- [x] Player & Guild Housing
+- [x] Persistent Item & Gold Banking 
+- [x] Base HotU Crafting
 - [x] Tony K's Henchman & Battle AI
 - [x] Community Expansion Pack (CEP)
 - [x] Customize Character Override Hak (CCOH)
