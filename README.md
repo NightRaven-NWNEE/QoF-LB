@@ -22,8 +22,7 @@
 - [x] 36pt Point Buy & High Magic
 - [x] Levels 1-40
 - [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
-- [x] Level 35+ Area Restricted Full \ Party PvP that is balanced around Party PvP.
-	- Most Cities & Leveling \ Quest areas are generally No PvP.
+- [x] Level 35+ Restricted Full \ Party PvP (Most Cities & Leveling \ Quest areas are generally No PvP)
 - [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes
 - [ ] (WIP) Custom DnD Spells & Feats (WIP)
 - [ ] (WIP) Custom Henchman & Mount System (WIP)
@@ -45,6 +44,7 @@
 
 ### * After Release / Future Plans: *
 - [ ] Levels 41-60
+- [ ] Instanced Quest Dungeons
 - [ ] Epic Class, Prestige, & Race Quests
 - [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System 
 - [ ] Custom Crafting System
@@ -121,4 +121,3 @@
 	- Outlawz - Co-Lead Module Admin / Dev 
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
-
