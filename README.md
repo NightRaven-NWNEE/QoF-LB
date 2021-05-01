@@ -6,12 +6,10 @@
 - Release Coming Soon!
 
 	### NWSync Enabled
-	- ** NOTE: ** A large first time download is required to play here due to the
-	custom content \ resources we are using.
+	- ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
-
-	### * Features: *
+### * Features: *
 - [x] 36pt Point Buy & High Magic
 - [x] Levels 1-40
 - [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
@@ -26,12 +24,12 @@
 - [x] Persistent Item & Gold Banking
 - [x] HotU Crafting
 
-	### * Ongoing Development: * 
+### * Ongoing Development: *
 - [ ] Custom Races & Classes
 - [ ] Custom DnD Spells & Feats
 - [ ] Custom Powers & Abilities
 
-	### * After Release / Future Plans: *
+### * After Release / Future Plans: *
 - [ ] Levels 41-60
 - [ ] Selectable Public or Private Quest Dungeons
 - [ ] Custom Mount System
@@ -40,28 +38,24 @@
 - [ ] Expand the HoTU Crafting System beyond the core game
 - [ ] Project Q Assets (Needs Investigation)
 
-
-	### * Class Changes: *
-- General Changes
+### * Class Changes: *
+- [General Changes]
 	- 
 
-- Specific Class Changes
+- [Specific Class Changes]
 	- Assassins, Blackguards, and Harper Scouts now have real spellbooks. As they should.
 
-
-	### * Spell Changes: *
+### * Spell Changes: *
 - [General Changes]
 	- Spells with simple artificial caps had the caps removed.
-	- Bulls Str, Cats Grace, Endurance, Foxs Cunning, Owls Wisdom, & Eagles Splendor were consolidated into one spell.
-		- Greater versions of these spells were also consolidated.
+	- Bulls Str, Cats Grace, Endurance, Foxs Cunning, Owls Wisdom, & Eagles Splendor were consolidated into one spell. Greater versions of these spells were also consolidated.
 
 - [Specific Spell Changes]
 	- Invisibility Sphere (21+ Caster Levels) - Casts as Improved Invisibility Sphere
 	- Mass Haste (21+ Caster Levels) - Gives an additional 20% Speed and +1 Attack\Round over regular haste.
 	- Black Blade of Disaster - Creature Template improved. Visual and AB\Damage.
 
-
-	### * Feat Changes: *
+### * Feat Changes: *
 - [General Changes]
 	- 
 
@@ -79,8 +73,7 @@
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
 
-
-	### * Special Thanks: *
+### * Special Thanks: *
 - Bioware
 - Beamdog
 - Weathersong
