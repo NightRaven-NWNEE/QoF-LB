@@ -1,87 +1,86 @@
 ## >> Harkdune, A NWN:EE Action Adventure PW <<
-    Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action. 
-	We're currently still in alpha and not open to the public, yet... 
-	This github, the website below, and the module itself are all still a work in progress (WIP).
+    Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action.
+	We're currently in beta and not open to the public, yet...
+	This github and the module itself are all still a work in progress (WIP).
 
-- Beta Soon! - https://harkdune-nwnee.ahhtsv.com 
+- Release Coming Soon!
 
-	### NWSync Enabled 
-	- ** NOTE: ** A large first time download is required to play here due to the 
+	### NWSync Enabled
+	- ** NOTE: ** A large first time download is required to play here due to the
 	custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
 
-### * TO-DO List: * 
-- [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes (WIP)
-- [ ] (WIP) Custom DnD Spells & Feats (WIP)
-- [ ] (WIP) Custom Henchman & Mount System (WIP)
-- [ ] (WIP) Custom Powers & Abilities (Not Race or Class dependant)
-
-
-### * Features & Custom Content: * [Planned for Release]
+	### * Features: *
 - [x] 36pt Point Buy & High Magic
 - [x] Levels 1-40
 - [x] Custom Campaign Setting, Story Lore, & Quests - Solo & Party
-- [x] Level 35+ Restricted Full \ Party PvP (Most Cities & Leveling \ Quest areas are generally No PvP)
-- [ ] (WIP) Custom, NWN2, & PRC Inspired DnD Races & Classes
-- [ ] (WIP) Custom DnD Spells & Feats (WIP)
-- [ ] (WIP) Custom Henchman & Mount System (WIP)
-- [x] Custom Portal/Teleportation System
-- [ ] (WIP) Earn Custom Powers & Abilities (Independant of Race \ Class Abilities)
+- [x] Level 40+ Restricted Full \ Party PvP (Most Cities & Leveling \ Quest areas are generally No PvP)
+- [x] Custom DnD Races & Classes (Custom, NWN2, & PRC Inspired)
+- [x] Custom DnD Spells & Feats
+- [x] Custom Henchman System
+- [x] Custom Portal / Teleportation System
+- [x] Earn Custom Powers & Abilities
 - [x] Guild System
 - [x] Player & Guild Housing
-- [x] Persistent Item & Gold Banking 
-- [x] Base HotU Crafting
-- [x] Tony K's Henchman & Battle AI
-- [x] Community Expansion Pack (CEP)
-- [x] Customize Character Override Hak (CCOH)
-- [x] Alternate Animations Combat Pack (ACP)
-- [x] Dungeon Master Friendly Initiative (DMFI)
-- [x] Player Guild System (PGS)
-- [x] Hunters Housing
-- [x] Neshkes Extendable Spawn System (NESS)
+- [x] Persistent Item & Gold Banking
+- [x] HotU Crafting
 
+	### * Ongoing Development: * 
+- [ ] Custom Races & Classes
+- [ ] Custom DnD Spells & Feats
+- [ ] Custom Powers & Abilities
 
-### * After Release / Future Plans: *
+	### * After Release / Future Plans: *
 - [ ] Levels 41-60
-- [ ] Instanced Quest Dungeons
+- [ ] Selectable Public or Private Quest Dungeons
+- [ ] Custom Mount System
 - [ ] Epic Class, Prestige, & Race Quests
-- [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System 
-- [ ] Custom Crafting System
+- [ ] Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System
+- [ ] Expand the HoTU Crafting System beyond the core game
 - [ ] Project Q Assets (Needs Investigation)
 
 
-### * Tilesets: *
-- Community Tileset Project (CTP)
-- Infernal Caverns: A Mines and Caverns Reskin
-- PHoD - PURGATORY
-
-
-### * Skyboxes: *
-- Community Skybox Pack (CSP)
-
-
-### * Music *
-- Community Music Pack (CMP)
-- Various Game Soundtracks (To be credited before Release)
-
-
-### * Spell Changes: (WIP) *
+	### * Class Changes: *
 - General Changes
-	- Spells with simple artificial caps had the caps removed.
+	- 
 
-- Specific Spell Changes
-	- Invisibility Sphere (21+ Caster Levels) - Improved Invisibility Sphere
-	- Mass Haste (21+ Caster Levels) - An additional 20% Speed and +1 Attack\Round.
+- Specific Class Changes
+	- Assassins, Blackguards, and Harper Scouts now have real spellbooks. As they should.
+
+
+	### * Spell Changes: *
+- [General Changes]
+	- Spells with simple artificial caps had the caps removed.
+	- Bulls Str, Cats Grace, Endurance, Foxs Cunning, Owls Wisdom, & Eagles Splendor were consolidated into one spell.
+		- Greater versions of these spells were also consolidated.
+
+- [Specific Spell Changes]
+	- Invisibility Sphere (21+ Caster Levels) - Casts as Improved Invisibility Sphere
+	- Mass Haste (21+ Caster Levels) - Gives an additional 20% Speed and +1 Attack\Round over regular haste.
 	- Black Blade of Disaster - Creature Template improved. Visual and AB\Damage.
 
 
-### * Feat Changes: (WIP) *
-- Blinding Speed = +1 Attack\Round
-- 
+	### * Feat Changes: *
+- [General Changes]
+	- 
+
+- [Specific Feat Changes]
+	- Blinding Speed = +1 Attack\Round
+	- 
 
 
-### * Special Thanks: * (More to add before Release)
+### * FAQ - Frequently Asked Questions: *
+
+- Who are the Developers, Dungeon Masters, and Testers?
+
+	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
+	- Outlawz - Co-Lead Module Admin / Dev
+	- Kit Royal - Senior DM / Tester
+	- Punishments Wrath - Senior DM / Tester
+
+
+	### * Special Thanks: *
 - Bioware
 - Beamdog
 - Weathersong
@@ -111,13 +110,3 @@
 - Genisys
 - ChaosQueen_Kara_8
 - And many, many more to add. List is incomplete for now.
-
-
-### * FAQ - Frequently Asked Questions: * (More to add before Release)
-
-- Who are the Developers, Dungeon Masters, and Testers? 
-	
-	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
-	- Outlawz - Co-Lead Module Admin / Dev 
-	- Kit Royal - Senior DM / Tester
-	- Punishments Wrath - Senior DM / Tester
