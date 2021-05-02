@@ -9,7 +9,7 @@
 	- ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
-### **__Features:__**
+### __Features:__
 * 36pt Point Buy & High Magic
 * Levels 1-40
 * Solo / Party Campaign & Side Quests
@@ -18,12 +18,11 @@
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
 	- *Most Areas that are PvP enabled will be Party PvP to allow groups to work together unrestricted*
 * Custom DnD Races & Classes
-	- *Many more in the works. # may increase before Release*
-	- *67 Custom Races*
-		+ *4 CEP Races*
+	- *More in the works. # may increase before Release. This is what is done currently.*
+	- *71 Custom Races*
+		+ *67 Custom Races* + *4 CEP Races*
 	- *3 Custom Classes*
-		+ *1 Base Class*
-		+ *2 Prestige Classes*
+		+ *1 Base Class* + *2 Prestige Classes*
 * Custom DnD Spells & Feats
 * Custom Henchman System
 * Custom Portal / Teleportation System
@@ -33,7 +32,7 @@
 * Persistent Item & Gold Banking
 * HotU Crafting
 
-### **Ongoing Development:**
+### ***Ongoing Development:***
 * Custom Classes 
 	+ Custom, NWN2, & PRC Inspired
 * Custom DnD Spells & Feats
