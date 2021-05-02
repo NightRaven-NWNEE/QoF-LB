@@ -9,7 +9,7 @@
 	- ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
-### ***Features:***
+## ***Features:***
 * 36pt Point Buy & High Magic
 * Levels 1-40
 * Solo / Party Campaign & Side Quests
@@ -18,9 +18,9 @@
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
 	- *Most Areas that are PvP enabled will be Party PvP to allow groups to work together unrestricted*
 * Custom DnD Races & Classes
-	- *More in the works. # may increase before Release. This is what is done currently.*
-	- *71 Custom Races*
-		+ *67 Custom Races* + *4 CEP Races*
+	- *More in the works. # may increase\decrease before Release.*
+	- *63 Custom Races*
+		+ *59 Custom Races* + *4 CEP Races*
 	- *3 Custom Classes*
 		+ *1 Base Class* + *2 Prestige Classes*
 * Custom DnD Spells & Feats
@@ -32,13 +32,13 @@
 * Persistent Item & Gold Banking
 * HotU Crafting
 
-#### ***Ongoing Development:***
+### ***Ongoing Development:***
 * Custom Classes 
 	+ Custom, NWN2, & PRC Inspired
 * Custom DnD Spells & Feats
 * Custom Powers & Abilities
 
-#### ***After Release / Future Plans:***
+### ***After Release / Future Plans:***
 * Levels 41-60
 * Selectable Public or Private Quest Dungeons
 * Custom Mount System
@@ -49,14 +49,15 @@
 * Project Q Assets
 	- *Needs Investigation*
 
-### **_Module Changes:_**
-##### ***Class Changes:***
+## ***Module Changes:***
+
+### ***Class Changes:***
 * *General Changes*
 
 * *Specific Class Changes*
 	- Assassins, Blackguards, and Harper Scouts now have real spellbooks. As they should.
 
-##### ***Spell Changes:***
+### ***Spell Changes:***
 * *General Changes*
 	- Spells with simple artificial caps had the caps removed. 
 		+ High Level Casters are very dangerous.
@@ -68,20 +69,20 @@
 	- Mass Haste (21+ Caster Levels) - Gives an additional 20% Speed and +1 Attack\Round over regular haste.
 	- Black Blade of Disaster - Creature Template improved. Visual and AB\Damage.
 
-##### ***Feat Changes:***
+### ***Feat Changes:***
 * *General Changes*
 
 * *Specific Feat Changes*
 	- Blinding Speed = +1 Attack\Round
 
-### *__FAQ - Frequently Asked Questions:__*
+## *__FAQ - Frequently Asked Questions:__*
 1. Who are the Developers, Dungeon Masters, and Testers?
 	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
 	- Outlawz - Co-Lead Module Admin / Dev
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
 
-##### *_Special Thanks:_*
+#### *_Special Thanks:_*
 - Bioware
 - Beamdog
 - Weathersong
