@@ -9,7 +9,7 @@
 	- ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
 	- Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
 
-### **_Features:_**
+### **__Features:__**
 * 36pt Point Buy & High Magic
 * Levels 1-40
 * Solo / Party Campaign & Side Quests
