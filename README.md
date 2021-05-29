@@ -7,24 +7,19 @@
 
 #### *NWSync Enabled*
 > ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
-> Its half as large if you use the NWSync CEP D/L Server or already have the CEP nwsyncd.
+> Its smaller if you already have the CEP nwsyncd.
 
 ## ***Features:***
-* High Magic
 * 36pt Point Buy
 * Levels 1-40
+* High Magic
 * Solo / Party Campaign & Side Quests
 * Custom Campaign Setting & Story Lore
 * Level 40+ Restricted Full & Party PvP Areas in the wild.
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
 	- *Most Areas that are PvP enabled will be Party PvP to allow groups to work together unrestricted*
-* Custom DnD Races & Classes
-	- *More in the works. # may increase\decrease before Release.*
-	- *63 Custom Races*
-		+ *59 Custom Races* + *4 CEP Races*
-	- *3 Custom Classes*
-		+ *1 Base Class* + *2 Prestige Classes*
-* Custom DnD Spells & Feats
+* Custom DnD [Races](https://github.com/Aphion/harkdune.github.io/wiki/Races) & [Classes](https://github.com/Aphion/harkdune.github.io/wiki/Classes)
+* Custom DnD [Feats](https://github.com/Aphion/harkdune.github.io/wiki/Feats) & [Spells](https://github.com/Aphion/harkdune.github.io/wiki/Spells)
 * Custom Henchman System
 * Custom Portal / Teleportation System
 * Earn Custom Powers & Abilities
@@ -35,7 +30,7 @@
 
 ### ***Ongoing Development:***
 * Custom Classes 
-	+ Custom, NWN2, & PRC Inspired
+	+ Custom, Web, NWN2, NWN1-PRC & NWN2-PRC Inspired
 * Custom DnD Spells & Feats
 * Custom Powers & Abilities
 
@@ -51,13 +46,13 @@
 	- *Needs Investigation*
 
 ## *__FAQ - Frequently Asked Questions:__*
-1. Who are the Developers, Dungeon Masters, and Testers?
+ 1. Who are the Developers, Dungeon Masters, and Testers?
 	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
 	- Outlawz - Co-Lead Module Admin / Dev
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
 
-#### *_Special Thanks:_*
+### *_Special Thanks:_*
 - Bioware
 - Beamdog
 - Weathersong
