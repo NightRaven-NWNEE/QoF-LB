@@ -1,14 +1,36 @@
-> ## Quadrumvirate of Fate: Living Beyond, A NWN:EE Action Adventure PW
+## Quadrumvirate of Fate: Living Beyond
+
+#### STATUS: ***Release Coming Soon!***
+
 > Quadrumvirate of Fate: Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action.
 > We're currently in beta and not open to the public, yet...
 > This github and the module itself are all still a work in progress (WIP).
 
-#### ***Release Coming Soon!***
+</n>
 
-> #### *NWSync Enabled*
-** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. Its a quarter of the size if you already have the CEP nwsyncd.
+#### *NWSync Enabled*
+> ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. Its a quarter of the size if you already have the CEP nwsyncd.
 
 </n>
+
+ - Who are the Admins, Developers, Dungeon Masters, and Testers?
+	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Author / Dev, Server & Module Admin
+	- Outlawz - Co-Lead Author / Dev, Module Admin
+	- Kit Royal - Senior DM / Tester
+	- Punishments Wrath - Senior DM / Tester
+
+</n>
+
+---
+> ### ***Links:***
+---
+[FAQ]()
+
+[Discord Server]()
+
+[Wiki]()
+
+[Forums]()
 
 ---
 > ### ***Features:***
