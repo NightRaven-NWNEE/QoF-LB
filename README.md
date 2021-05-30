@@ -1,58 +1,74 @@
-## >> _Harkdune, A NWN:EE Action Adventure PW_ <<
-> Harkdune is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action.
+> ## Quadrumvirate of Fate: Living Beyond, A NWN:EE Action Adventure PW
+> Quadrumvirate of Fate: Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action.
 > We're currently in beta and not open to the public, yet...
 > This github and the module itself are all still a work in progress (WIP).
 
 #### ***Release Coming Soon!***
 
-#### *NWSync Enabled*
-> ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using.
-> Its smaller if you already have the CEP nwsyncd.
+> #### *NWSync Enabled*
+** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. Its a quarter of the size if you already have the CEP nwsyncd.
 
-## ***Features:***
+</n>
+
+---
+> ### ***Features:***
+---
 * 36pt Point Buy
 * Levels 1-40
 * High Magic
-* Solo / Party Campaign & Side Quests
-* Custom Campaign Setting & Story Lore
+* Custom Campaign Setting, Story Lore, Solo / Party Campaign, & Side Quests
 * Level 40+ Restricted Full & Party PvP Areas in the wild.
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
 	- *Most Areas that are PvP enabled will be Party PvP to allow groups to work together unrestricted*
-* Custom DnD [Races](https://github.com/Aphion/harkdune.github.io/wiki/Races) & [Classes](https://github.com/Aphion/harkdune.github.io/wiki/Classes)
-* Custom DnD [Feats](https://github.com/Aphion/harkdune.github.io/wiki/Feats) & [Spells](https://github.com/Aphion/harkdune.github.io/wiki/Spells)
-* Custom Henchman System
-* Custom Portal / Teleportation System
+* Custom [Races](https://github.com/Aphion/harkdune.github.io/wiki/Races) & [Classes](https://github.com/Aphion/harkdune.github.io/wiki/Classes)
+* Custom [Feats](https://github.com/Aphion/harkdune.github.io/wiki/Feats) & [Spells](https://github.com/Aphion/harkdune.github.io/wiki/Spells)
+* Custom [Henchman System]()
+* Custom [Portal / Teleportation System]()
 * Earn Custom Powers & Abilities
-* Custom Guild System
-* Player & Guild Housing
+* Guild System with Player & Guild Housing
 * Persistent Item & Gold Banking
 * HotU Crafting
 
-### ***Ongoing Development:***
-* Custom Classes 
+</n>
+
+---
+> ### ***Ongoing Development:***
+---
+* Henchman System
+* Classes 
 	+ Custom, Web, NWN2, NWN1-PRC & NWN2-PRC Inspired
-* Custom DnD Spells & Feats
+* Spells & Feats
 * Custom Powers & Abilities
 
-### ***After Release / Future Plans:***
+</n>
+
+---
+> ### ***After Release / Future Plans:***
+---
 * Levels 41-60
 * Selectable Public or Private Quest Dungeons
 * Custom Mount System
 * Epic Class, Prestige, & Race Quests
 * Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System
 * Expand the HoTU Crafting System beyond the core game
-* DnD Core Languages
 * Project Q Assets
 	- *Needs Investigation*
+* Add DnD Core Languages (Lowest Priority)	
 
-## *__FAQ - Frequently Asked Questions:__*
+</n>
+
+---
+> ### ***FAQ - Frequently Asked Questions:***
+---
  1. Who are the Developers, Dungeon Masters, and Testers?
 	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
 	- Outlawz - Co-Lead Module Admin / Dev
 	- Kit Royal - Senior DM / Tester
 	- Punishments Wrath - Senior DM / Tester
 
-### *_Special Thanks:_*
+---
+> ### ***Special Thanks:***
+---
 - Bioware
 - Beamdog
 - Weathersong
