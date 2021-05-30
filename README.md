@@ -1,4 +1,4 @@
-## Quadrumvirate of Fate: Living Beyond
+## Quadrumvirate of Fate: The Living Beyond
 
 </n>
 
@@ -6,15 +6,15 @@
 
 </n>
 
-> Quadrumvirate of Fate: Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World that will be available under the PW Action Category.
+> Quadrumvirate of Fate: The Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World that will be available under the PW Action Category.
 >
 > We're currently in beta and not open to the public, yet...
 > This github, the attached website, and the module itself are all still a work in progress (WIP).
 
 </n>
 
-#### *NWSync Enabled*
-> ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. It's roughly a quarter of the size if you already have the CEP nwsyncd.
+- #### **NWSync** is *Enabled*
+  - **NOTE:** A large first time download is required to play here due to the custom content \ resources we are using. It's roughly a quarter of the size if you already have the CEP nwsyncd.
 
 </n>
 
@@ -26,7 +26,10 @@
 
 </n>
 
-#### ***Links***
+---
+> ### ***Server Information***
+---
+
 
 * **[Introduction](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Introduction)**
 
@@ -41,6 +44,8 @@
 * **[Forums](https://github.com/NightRaven-NWNEE/QoF-LB/discussions)**
 
 * **[Discord Server](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)**
+
+</n>
 
 ---
 > ### ***Features***
