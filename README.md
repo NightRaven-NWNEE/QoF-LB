@@ -9,7 +9,7 @@
 </n>
 
 #### *NWSync Enabled*
-> ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. Its a quarter of the size if you already have the CEP nwsyncd.
+> ** NOTE: ** A large first time download is required to play here due to the custom content \ resources we are using. It's roughly a quarter of the size if you already have the CEP nwsyncd.
 
 </n>
 
@@ -24,13 +24,13 @@
 ---
 > ### ***Links:***
 ---
-[FAQ]()
+[FAQ](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/FAQ)
 
 [Discord Server]()
 
-[Wiki]()
+[Wiki](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)
 
-[Forums]()
+[Forums](https://github.com/NightRaven-NWNEE/QoF-LB/discussions)
 
 ---
 > ### ***Features:***
@@ -78,15 +78,6 @@
 * Add DnD Core Languages (Lowest Priority)	
 
 </n>
-
----
-> ### ***FAQ - Frequently Asked Questions:***
----
- 1. Who are the Developers, Dungeon Masters, and Testers?
-	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Server & Module Admin / Dev
-	- Outlawz - Co-Lead Module Admin / Dev
-	- Kit Royal - Senior DM / Tester
-	- Punishments Wrath - Senior DM / Tester
 
 ---
 > ### ***Special Thanks:***
