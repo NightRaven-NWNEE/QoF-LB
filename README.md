@@ -26,7 +26,7 @@
 
 </n>
 
-#### ***Links:***
+#### ***Links***
 
 * **[Introduction](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Introduction)**
 
@@ -43,7 +43,7 @@
 * **[Discord Server](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)**
 
 ---
-> ### ***Features:***
+> ### ***Features***
 ---
 * 36pt Point Buy
 * Levels 1-40
