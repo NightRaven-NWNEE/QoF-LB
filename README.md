@@ -1,10 +1,15 @@
 ## Quadrumvirate of Fate: Living Beyond
 
-#### STATUS: ***Release Coming Soon!***
+</n>
 
-> Quadrumvirate of Fate: Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World available under PW Action.
+#### **STATUS:** *Release Coming Soon!*
+
+</n>
+
+> Quadrumvirate of Fate: Living Beyond is a Neverwinter Nights: Enhanced Edition Persistent World that will be available under the PW Action Category.
+>
 > We're currently in beta and not open to the public, yet...
-> This github and the module itself are all still a work in progress (WIP).
+> This github, the attached website, and the module itself are all still a work in progress (WIP).
 
 </n>
 
@@ -16,21 +21,26 @@
  - Who are the Admins, Developers, Dungeon Masters, and Testers?
 	- Ɲ𝔦𝔤𝔥𝔱Ʀ𝔞𝘷𝔢𝔫 - Lead Author / Dev, Server & Module Admin
 	- Outlawz - Co-Lead Author / Dev, Module Admin
-	- Kit Royal - Senior DM / Tester
-	- Punishments Wrath - Senior DM / Tester
+	- Kit Royal - Senior Dungeon Master / Tester
+	- Punishments Wrath - Senior Dungeon Master / Tester
 
 </n>
 
----
-> ### ***Links:***
----
-[FAQ](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/FAQ)
+#### ***Links:***
 
-[Discord Server]()
+* **[Introduction](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Introduction)**
 
-[Wiki](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)
+* **[Story](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Story)**
 
-[Forums](https://github.com/NightRaven-NWNEE/QoF-LB/discussions)
+* **[Wiki](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)**
+
+* **[Rules](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Rules)**
+
+* **[FAQ](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/FAQ)**
+
+* **[Forums](https://github.com/NightRaven-NWNEE/QoF-LB/discussions)**
+
+* **[Discord Server](https://github.com/NightRaven-NWNEE/QoF-LB/wiki)**
 
 ---
 > ### ***Features:***
@@ -38,39 +48,40 @@
 * 36pt Point Buy
 * Levels 1-40
 * High Magic
-* Custom Campaign Setting, Story Lore, Solo / Party Campaign, & Side Quests
+* Custom Campaign Setting, Story Lore, Solo & Party Campaign & Side Quests
 * Level 40+ Restricted Full & Party PvP Areas in the wild.
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
 	- *Most Areas that are PvP enabled will be Party PvP to allow groups to work together unrestricted*
-* Custom [Races](https://github.com/Aphion/harkdune.github.io/wiki/Races) & [Classes](https://github.com/Aphion/harkdune.github.io/wiki/Classes)
-* Custom [Feats](https://github.com/Aphion/harkdune.github.io/wiki/Feats) & [Spells](https://github.com/Aphion/harkdune.github.io/wiki/Spells)
-* Custom [Henchman System]()
-* Custom [Portal / Teleportation System]()
-* Earn Custom Powers & Abilities
-* Guild System with Player & Guild Housing
+* Custom [Races](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Races) & [Classes](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Classes)
+* Custom [Feats](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Feats) & [Spells](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Spells)
+* Custom [Henchman System](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Henchman_System)
+* Custom [Portal / Teleportation System](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Portal_System)
+* Custom [Soul Power System](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Soul_Power_System)
+* Guild System with Player & Guild [Housing](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Housing)
 * Persistent Item & Gold Banking
-* HotU Crafting
+* HotU [Crafting](https://github.com/NightRaven-NWNEE/QoF-LB/wiki/Crafting)
 
 </n>
 
 ---
-> ### ***Ongoing Development:***
+> ### ***Ongoing Development***
 ---
-* Henchman System
-* Classes 
+* Custom Henchman System
+* Custom Classes 
 	+ Custom, Web, NWN2, NWN1-PRC & NWN2-PRC Inspired
-* Spells & Feats
-* Custom Powers & Abilities
+* Custom Feats
+* Custom Spellbooks
+* Custom Spells
 
 </n>
 
 ---
-> ### ***After Release / Future Plans:***
+> ### ***Future Development Plans***
 ---
 * Levels 41-60
 * Selectable Public or Private Quest Dungeons
 * Custom Mount System
-* Epic Class, Prestige, & Race Quests
+* Base Class, Prestige Class, & Race Quests
 * Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System
 * Expand the HoTU Crafting System beyond the core game
 * Project Q Assets
@@ -80,7 +91,7 @@
 </n>
 
 ---
-> ### ***Special Thanks:***
+> ### ***Special Thanks***
 ---
 - Bioware
 - Beamdog
