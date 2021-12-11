@@ -53,6 +53,7 @@
 * 36pt Point Buy
 * Levels 1-40
 * High Magic
+* Custom Epic Spell System
 * Custom Campaign Setting, Story Lore, Solo & Party Campaign & Side Quests
 * Level 40+ Restricted Full & Party PvP Areas in the wild.
 	- *Most Cities & Leveling \ Campaign Quest areas are generally No PvP*
@@ -85,6 +86,7 @@
 ---
 * Levels 41-60
 * Selectable Public or Private Quest Dungeons
+* Custom Epic Spells
 * Custom Mount System
 * Base Class, Prestige Class, & Race Quests
 * Custom Party, Guild, & Solo PvE, PvP, & PvPvE Tournament System
